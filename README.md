@@ -1,5 +1,7 @@
 # 👋 Welcome to my Github Profile!
 
+![catto](https://avatars.githubusercontent.com/u/92630210?v=4&s=100)
+
 ## ❓ About Me
 
 My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.
