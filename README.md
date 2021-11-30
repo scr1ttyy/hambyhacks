@@ -1,7 +1,5 @@
 # 👋 Welcome to my Github Profile!
 
-![Aesthetic Banner](https://github.com/hambyhacks/hambyhacks/blob/main/aesthetic-minimal-wallpaper-1366x768-wallpaper.jpg)
-
 ## ❓ About Me
 
 My name is Kyle, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.
