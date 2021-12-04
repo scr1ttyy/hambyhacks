@@ -18,6 +18,8 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ Bash
 
+☑️ Basic Penetration Testing
+
 ## 🧪 Projects
 
 ☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
