@@ -28,7 +28,7 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 ☑️ Started 100 Days of Code: Learning Go. [Link](https://github.com/hambyhacks/100DaysOfGo)
 
-[![wakatime](https://wakatime.com/badge/github/hambyhacks/100DaysOfGo.svg)](https://wakatime.com/badge/github/hambyhacks/100DaysOfGo)
+[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620.svg)](https://wakatime.com/@eaab2c2a-fe74-487c-bd96-f9069a349620)
 
 ☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
 
