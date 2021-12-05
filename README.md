@@ -26,11 +26,11 @@ Skills listed here are on basic level but I am constantly learning to improve th
 
 [![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/be3e0cb2-63ee-4a21-955c-1004b28110d5.svg)](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/be3e0cb2-63ee-4a21-955c-1004b28110d5)
 
-☑️ Started 100 Days of Code: Learning Go.
+☑️ Started 100 Days of Code: Learning Go. [Link](https://github.com/hambyhacks/100DaysOfGo)
 
 [![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/9cb04282-6d15-41e3-9298-2f6382c07c4d.svg)](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/9cb04282-6d15-41e3-9298-2f6382c07c4d)
 
-☑️ Created a blog about Cybersecurity Journey.
+☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
 
 [![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/4b3ada86-b751-41ca-a3fd-605e64de1400.svg)](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620/project/4b3ada86-b751-41ca-a3fd-605e64de1400)
 
