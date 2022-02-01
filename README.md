@@ -2,7 +2,7 @@
 
 ## ❓ About Me
 
-My name is Kyle, from 🇵🇭, an aspiring Red Teamer/Entrepreneur that is currently working towards breaking into cybersecurity.
+My name is Kyle, from 🇵🇭, an aspiring Red Teamer that is currently working towards breaking into cybersecurity.
 
 This Github profile serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.
 
