@@ -2,33 +2,11 @@
 
 ## ❓ About Me
 
-My name is Kyle, an aspiring Red Teamer that is currently working towards breaking into cybersecurity.
+My name is Kyle, an aspiring Red Teamer that is ~~currently working towards breaking into cybersecurity.~~ now working on cybersecurity field as a pentester!
 
 This Github profile serves as my personal journal as well as a guide for aspiring individuals who want to break into cybersecurity.
 
-## ⭐ Skills
-
-Skills listed here are on basic level but I am constantly learning to improve them!
-   
-☑️ Linux Command Line
-
-☑️ Git 
-
-☑️ Golang
-
-☑️ Bash
-
-☑️ Penetration Testing
-
-## 🧪 Projects
-
-☑️ Written an automation tool for CTFs (such as HackTheBox and TryHackMe) named [CTFRecon](https://www.github.com/hambyhacks/CTFRecon) (still incomplete though).
-
-☑️ Started 100 Days of Code: Learning Go. [Link](https://github.com/hambyhacks/100DaysOfGo)
-
-[![wakatime](https://wakatime.com/badge/user/eaab2c2a-fe74-487c-bd96-f9069a349620.svg)](https://wakatime.com/@eaab2c2a-fe74-487c-bd96-f9069a349620)
-
-☑️ Created a blog about Cybersecurity Journey. [Link](https://hambyhacks.github.io)
+I also post CTF writeups [here](https://hambyhacks.github.io). :)
 
 ## 📥 Socials
 
